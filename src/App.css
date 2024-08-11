@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.count-box{
+
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  flex-direction: column;
+
+}
+.main-box{
+  margin: 2rem 0 ;
+  padding: 40px;
+}
+button{
+  background-color: cornflowerblue;
+  padding: 5px;
+  margin: 10px;
+  color: white;
+}
